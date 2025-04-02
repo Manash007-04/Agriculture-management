@@ -1,0 +1,5 @@
+uday|456|Uday makwana|false|200.0|kolhapur|black|1,3|1
+manash|123|manash chandrawal|false|250.0|dehradun|loamy|2|2
+admin|admin123|Administrator|true|0.0|null|null||
+meghanshhh|8989|meghanshh|false|0.0|null|null||
+prjwal|789|Prajwal Patil|false|300.0|jalgaon|moist|2|
